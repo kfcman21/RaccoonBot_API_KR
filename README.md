@@ -60,6 +60,7 @@
 
 <details>
     <summary><a href="https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/관절-제어#관절-속도-설정">관절 속도 설정</a></summary>
+    
 - [velocity(joint, value)](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/관절-제어#velocityjoint-value)
 - [velocity(joint1, joint2, joint3, joint4)](https://github.com/RobomationLAB/RaccoonBot_API_KR/wiki/관절-제어#velocityjoint1-joint2-joint3-joint4)
 
